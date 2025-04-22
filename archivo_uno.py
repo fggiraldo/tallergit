@@ -1,3 +1,1 @@
-print("fernando")
-print("giraldo")
-print("rimac")
+print('Bianca Giraldo Rimac')
